@@ -1,4 +1,4 @@
-Code and output are placed in top-level folder for ease of grading. Actual run source and output are in respective folders.
+Code and output are placed in top-level folder for ease of grading. Actual run source and output are in respective folders. Actual source data has been replaced with placeholderfile.
 
 
 ## Introduction
